@@ -9,4 +9,8 @@ my_nums = [1, 2, 3, True, "ankush", 5.6]
 
 my_nums.append(44)
 
-print(my_nums)
+# print(my_nums)
+
+
+# for i in my_nums:
+#     print(i)
