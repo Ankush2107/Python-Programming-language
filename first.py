@@ -8,6 +8,9 @@ print(num1)
 
 # Data types
 
+# integer
+num2 = 88
+
 # booleans
 isSimple = True
 print(isSimple)
